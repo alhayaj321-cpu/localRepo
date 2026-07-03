@@ -4,3 +4,4 @@
 Testing the commit function now!
 <br>
 A new feature is added in main(button).
+adding contact section in readme
